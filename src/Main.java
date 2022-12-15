@@ -55,12 +55,6 @@ public class Main {
             populationY = populationY - mortality + totalFertility;
             year = year + 1;
         }
-
-
-        /*for (int i = 1; i <= 10; i++) {
-            populationY = populationY - mortality + totalFertility;
-            System.out.println("Год " + i + " численность населения составляет " + populationY);}*/
-
     }
 
     public static void task4() {
